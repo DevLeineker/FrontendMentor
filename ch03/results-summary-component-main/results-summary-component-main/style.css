@@ -1,0 +1,28 @@
+body{
+
+}
+main{
+    background-color: lightblue;
+    width: 720px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px hsla(252, 49%, 46%, 0.445);
+    margin: auto;
+    columns: 2;
+    
+
+    
+
+}
+article{
+   background-image: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+   margin-bottom: 0px;
+   border-radius: 20px;
+   padding-left: 30px;
+   
+}
+article h1{
+    margin-top: 0px;
+    margin-bottom: 250px;
+
+}
